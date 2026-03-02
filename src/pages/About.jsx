@@ -52,7 +52,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+00123456789</h4>
+                    <h4>+33 7 66 95 62 52</h4>
                   </div>
                 </div>
               </div>
