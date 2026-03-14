@@ -63,7 +63,7 @@ const Header = () => {
         </Container>
       </div>
 
-      {/* =============== header middle =========== */}
+    
       <div className="header__middle">
         <Container>
           <Row>
